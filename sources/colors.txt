@@ -1,0 +1,5 @@
+color 1 (dunkel violett): #45364B
+color 2 (hell violett): #B3B2C8
+akzentfarbe (hellblau): #ADD8E6
+zusätzliche farbe (dunkel dunkel violett): #190F27
+schriftfarben (hell) = #D5D4E3 / (dunkel) = #37283D
